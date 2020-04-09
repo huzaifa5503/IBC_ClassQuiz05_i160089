@@ -1,0 +1,19 @@
+
+
+body {
+  background-color: #182c32;
+  color: white;
+  padding: 50px;
+  font-family: cursive;
+  text-align: center;
+}
+p {
+	font-size: larger;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	padding-top: 50px;
+	font-weight: 200;
+	text-align: center;
+	font-style: oblique;
+}
